@@ -1,1 +1,1 @@
-export {default as btsrpBtn} from "./Button/Button";
+export {default as BtsrpBtn} from "./Button/Button";

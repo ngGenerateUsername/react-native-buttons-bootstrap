@@ -1,6 +1,6 @@
 {
   "name": "react-native-buttons-bootstrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React native bootstrap buttons library",
   "scripts": {
     "prepare": "bob build"
