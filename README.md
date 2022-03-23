@@ -1,7 +1,7 @@
 # Library Introduction
  React native bootstrap buttons.
 
-![npm](https://img.shields.io/badge/npm-v0.0.1-blue) ![LICENSE MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+![npm](https://img.shields.io/npm/v/react-native-buttons-bootstrap) ![LICENSE MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 [![NPM](https://nodei.co/npm/react-native-buttons-bootstrap.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-buttons-bootstrap/)
 
