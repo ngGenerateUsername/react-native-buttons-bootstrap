@@ -7,7 +7,7 @@
 
 ## Getting Started
 ###### Demo
-![DEMO](./doc/images/screenShot.png |width=400)
+<img src="./doc/images/screenShot.png" alt="Demo" width="400"/>
 
 ### Installation
 
