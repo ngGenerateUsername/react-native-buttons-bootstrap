@@ -7,7 +7,7 @@
 
 ## Getting Started
 ###### Demo
-![DEMO](./docs/images/screenShot.png)
+![DEMO](./doc/images/screenShot.png)
 
 ### Installation
 
