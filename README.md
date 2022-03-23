@@ -33,7 +33,10 @@ import { BtsrpBtn } from "react-native-buttons-bootstrap/lib/module";
 | Prop Name  | Type         |Default Value  |
 | -----------|:------------:|---------------|
 |btnText     | string       | "DEFAULT"     |
-|btnStyle    | string enum  "primary","secondary","success","danger","warning","info","outlinePrimary","outlineSecondary","outlineSuccess","outlineDanger","outlineWarning" ,"outlineInfo" | null      |
+|btnStyle    | string enum  "primary","secondary","success",
+"danger","warning","info","outlinePrimary",
+"outlineSecondary","outlineSuccess","outlineDanger",
+"outlineWarning" ,"outlineInfo" | null      |
 |btnRadius   | number       | 4             |
 |custumTextStyle | Object   | null          |
 |onPress     | void         | null          |
