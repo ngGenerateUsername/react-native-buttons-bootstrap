@@ -1,0 +1,2 @@
+export type colorStyleType =  "primary" | "secondary" | "success" | "danger" | "warning" | "info" | "outlinePrimary" | "outlineSecondary" | "outlineSuccess" |
+"outlineDanger" | "outlineWarning" | "outlineInfo" | "sm" |"md" |"lg";
