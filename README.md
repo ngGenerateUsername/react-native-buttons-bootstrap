@@ -16,16 +16,11 @@ npm i react-native-buttons-bootstrap --save
 ```
 
 ### Usage
-
-###### &nbsp;jsx
+###### exemple
 ```jsx
 import { BtsrpBtn } from "react-native-buttons-bootstrap/lib/module";
 ```
-###### &nbsp;tsx
-```jsx
-import { BtsrpBtn } from "react-native-buttons-bootstrap/lib/typescript";
-```
-###### exemple
+
 ```jsx
 <BtsrpBtn btnText="Exemple" btnStyle="primary" btnRadius={-1} custumTextStyle={{textTransform:"uppercase"}} onPress={()=>{console.log("stop it!")}}  />
 
