@@ -7,7 +7,7 @@
 
 ## Getting Started
 ###### Demo
-![DEMO](./doc/images/screenShot.png)
+![DEMO](./doc/images/screenShot.png = 400x600)
 
 ### Installation
 
