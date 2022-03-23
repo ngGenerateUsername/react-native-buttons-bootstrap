@@ -18,7 +18,7 @@ npm i react-native-buttons-bootstrap --save
 ### Usage
 ###### exemple
 ```jsx
-import { BtsrpBtn } from "react-native-buttons-bootstrap/lib/module";
+import { BtsrpBtn } from "react-native-buttons-bootstrap";
 ```
 
 ```jsx

@@ -1,6 +1,6 @@
 {
   "name": "react-native-buttons-bootstrap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React native bootstrap buttons library",
   "scripts": {
     "prepare": "bob build"
@@ -27,10 +27,11 @@
   "main": "lib/module/index.js",
   "module": "lib/module/index.js",
   "react-native": "src/index.ts",
-  "types": "lib/typescript/src/index.d.ts",
+  "types": "lib/typescript/index.d.ts",
   "files": [
     "lib/",
     "doc/",
+    "src",
     "package.json",
     "README.md"
   ],
