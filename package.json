@@ -1,6 +1,6 @@
 {
   "name": "react-native-buttons-bootstrap",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "React native bootstrap buttons library",
   "scripts": {
     "prepare": "bob build"
@@ -44,7 +44,10 @@
     "react-native-boostrap-buttons",
     "react-native-buttons",
     "ios",
-    "expo"
+    "expo",
+    "ui",
+    "component",
+    "ui component"
   ],
   "repository": {
     "type": "git",
