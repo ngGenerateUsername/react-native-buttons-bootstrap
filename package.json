@@ -47,7 +47,8 @@
     "expo",
     "ui",
     "component",
-    "ui component"
+    "ui component",
+    "components"
   ],
   "repository": {
     "type": "git",
